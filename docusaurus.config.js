@@ -8,8 +8,8 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: "Tiger's Site",
+  tagline: '仰望星空，低头赶路',
   url: 'https://github.com',
   baseUrl: '/tiger-website/',
   onBrokenLinks: 'throw',
