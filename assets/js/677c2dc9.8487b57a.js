@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktiger_website=self.webpackChunktiger_website||[]).push([[9884],{2130:e=>{e.exports=JSON.parse('{"permalink":"/tiger-website/blog/tags/\u62c9\u666e\u62c9\u65af\u77e9\u9635","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktiger_website=self.webpackChunktiger_website||[]).push([[8437],{2495:e=>{e.exports=JSON.parse('{"permalink":"/tiger-website/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
