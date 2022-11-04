@@ -21,8 +21,8 @@ jobs:
       - name: Build website
         working-directory: tiger-website
         run: |
-        yarn install --frozen-lockfile
-        yarn build
+          yarn install --frozen-lockfile
+          yarn build
 
       # 部署到 GitHub Pages 的热门选择：
       # 文档：https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
