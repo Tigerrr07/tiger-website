@@ -1,7 +1,7 @@
 ---
 slug: 拉普拉斯矩阵
 title: 拉普拉斯矩阵
-authors: slorber
+authors: tiger
 tags: [拉普拉斯矩阵, 拉普拉斯特征映射]
 ---
 

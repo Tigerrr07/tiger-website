@@ -9,7 +9,7 @@ const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Tiger's Site",
-  tagline: '仰望星空，低头赶路，测试部署',
+  tagline: '仰望星空，低头赶路',
   url: 'https://github.com',
   baseUrl: '/tiger-website/',
   onBrokenLinks: 'throw',
