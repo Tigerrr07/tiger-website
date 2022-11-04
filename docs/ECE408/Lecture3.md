@@ -11,9 +11,10 @@
 * N = 1000, block size = 256
 * One element per thread
 
+
 ![vector add 1](img/vecadd1.png)
 
-<!-- <img src="./img/vecadd1.png" width = "1000" height = "400" alt="图片名称" align=center /> -->
+
 
 ``` cpp
 // one element per thread
@@ -31,7 +32,9 @@ vecAdd<<<dimGrid, dimBlock>>>(A, B, C, n); // device variables
  
 **Coarser grains : two elements per thread**
 
-![](vx_images/162643316226847.png =500x) ![](vx_images/350303416247013.png =500x)
+![vector add 2](img/vecadd2.png) 
+![vector add 3](img/vecadd3.png)
+
 ``` cpp
 // Coarser Grains : two element per thread
 int i = blockIdx.x * (2 * blockDim.x) + threadIdx.x;
