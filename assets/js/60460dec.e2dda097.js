@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktiger_website=self.webpackChunktiger_website||[]).push([[9271],{4999:e=>{e.exports=JSON.parse('{"label":"Normalization","permalink":"/tiger-website/blog/tags/normalization","allTagsPath":"/tiger-website/blog/tags","count":1}')}}]);
