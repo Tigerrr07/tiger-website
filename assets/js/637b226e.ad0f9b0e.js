@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktiger_website=self.webpackChunktiger_website||[]).push([[6754],{5870:e=>{e.exports=JSON.parse('{"label":"GCN","permalink":"/tiger-website/blog/tags/gcn","allTagsPath":"/tiger-website/blog/tags","count":1}')}}]);

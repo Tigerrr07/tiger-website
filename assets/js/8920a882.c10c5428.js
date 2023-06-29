@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktiger_website=self.webpackChunktiger_website||[]).push([[2953],{4243:e=>{e.exports=JSON.parse('{"permalink":"/tiger-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
