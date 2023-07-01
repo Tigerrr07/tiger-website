@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/tiger-website/blog</id>
     <title>Tiger's Site Blog</title>
-    <updated>2023-06-29T00:00:00.000Z</updated>
+    <updated>2023-06-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/tiger-website/blog"/>
     <subtitle>Tiger's Site Blog</subtitle>
     <icon>https://github.com/tiger-website/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Multivarite Random variables]]></title>
+        <id>https://github.com/tiger-website/blog/2023/6/30/random-vectors</id>
+        <link href="https://github.com/tiger-website/blog/2023/6/30/random-vectors"/>
+        <updated>2023-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My document description]]></summary>
+        <content type="html"><![CDATA[<p>For a one-to-one transformation, </p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="from">From<a href="#from" class="hash-link" aria-label="Direct link to From" title="Direct link to From">​</a></h3><p><a href="http://kircher.scripts.mit.edu/wp/wp-content/uploads/2021/01/ps.pdf" target="_blank" rel="noopener noreferrer">Probability and Statistics Basics, Notes</a></p>]]></content>
+        <author>
+            <name>Hu Chen</name>
+            <uri>https://github.com/Tigerrr07</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GCN by DGL]]></title>
         <id>https://github.com/tiger-website/blog/2023/6/29/GCNconv</id>
